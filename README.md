@@ -1,6 +1,3 @@
-# SQL-repo-1
-Contains code for SQL Island mini-game, with the respective output for each query if needed.
-
 # SQL ISLAND mini-game
 
 The game starts with you stranded on an island with 3 villages and random inhabitants of the village.  You have to talk to the right people and find the correct information to obtain food and money, and finally leave the island.
